@@ -1,6 +1,6 @@
 c:
 cd \openmoo2\moo2
 
-set PYTHONPATH="c:\openmoo2\moo2\src;c:\openmoo2\moo2\src\classes"
+set PYTHONPATH="c:\openmoo2\moo2\game;c:\openmoo2\moo2\game\classes"
 
-c:\python26\python.exe c:\openmoo2\src\openmoo2.py
+c:\python26\python.exe c:\openmoo2\game\openmoo2.py
