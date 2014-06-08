@@ -1,7 +1,7 @@
 OpenMOO2
 open source clone of Microprose game "Master of Orion II: Battle at Antares"
 
-version: 0.1 / alpha preview
+version: 0.2-alpha / codename: procrastination
 
 === General info ===
 
