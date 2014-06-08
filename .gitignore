@@ -52,3 +52,5 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Master of Orion 2 Propietary LBX files/binaries
+*.LBX
