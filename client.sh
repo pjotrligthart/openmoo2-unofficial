@@ -2,7 +2,7 @@
 
 set -e
 
-PYTHON=python2.6
+PYTHON=python2.7
 
 cd "$(dirname ${0})/"
 
